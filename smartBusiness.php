@@ -1,0 +1,95 @@
+<div class="container">
+    <div class="border-top border-dark">
+        <h3>Smart Business:</h3>
+        <p></p>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <section id="cd-timeline" class="cd-container">
+
+                <div class="cd-timeline-block cd-timeline-block-left">
+                    <div class="cd-timeline-img cd-picture">
+                        <img src="images/checked-icon.png" alt="Picture">
+                    </div>
+                    <div class="cd-timeline-content service-box-content">
+                        <h2>Intro</h2>
+                        <p>Welkom bij mijn persoonlijke beleving van de module Smart Connection. In deze module volg ik een aantal lessen die bijdragen aan de ontwikkeling van mijn ICT-vaardigheden. Hierin ik hoe ik een website moet vormgeven en wat voor achterliggende processen deze heeft. Gedurende dit traject zal ik mij verdiepen in het aanleren van deze vaardigheden.
+                        </p>
+                        <p>Vanwege mijn gedeeltelijke ervaring met het bouwen van een website, heb ik niet deelgenomen aan een aantal lessen. Om toch aan te tonen dat ik hier kennis van heb, zal ik daarom een aantal opdrachten invoegen (of wat zaken aantonen dmv. verwijzingen in mijn portfolio).</p>
+
+                    </div>
+                </div>
+
+                <div class="cd-timeline-block">
+                    <div class="cd-timeline-img cd-picture">
+                        <img src="images/black-circle-icon.png" alt="Picture">
+                    </div>
+                    <div class="cd-timeline-content service-box-content">
+                        <h2>Week 1-Smart Working You</h2>
+                        <h4><strong>Intro</strong></h4>
+                        <p>Het enige echte begin van Business. Het onderdeel wat ik graag verder wil ontdekken! Tijdens de eerste les is er gewerkt aan de persoonlijke ontwikkeling. Hierin was er met name een kennismaking met de medestudenten en wat lesstof over methodes om je eigen traject vorm te geven.</p> </p>
+                        <h4><strong>Uitvoering</strong></h4>
+                        <p>De les begon met een stukje introductie en voorstellen. Daarna begonnen we met een opdracht over ethische dilemmas in de context van Smart industry. Daarnaas werden een aantal vragen gesteld over persoonlijke raakvlakken met de smart industry. Ik was er persoonlijk al mee bekend (mijn major heet ook niet voor niks Smart Automation), dus voor mij waren de beslissingen snel gemaakt. Ik zal vaak kiezen voor innovatie. Waarvan uitzondering gemaakt kunnen worden wanneer veiligheid of privacy ter sprake komen.</p>
+                        <p>Vervolgens heb ik een value map gemaakt van mijn intresses in de smart industry:</p>
+                        <a href="images/smartBusiness-week1-ValueMap.png" target="_blank">
+                            <div>
+                                <img src="images/smartBusiness-week1-ValueMap.png" class="timelineImage"></img>
+                            </div>
+                        </a>
+                        Hieruit heb ik vevolgens ook mijn doelen geformuleerd. Deze staan aan het begin van mijn portfolio.
+                        <h4><strong>Reflectie</strong></h4>
+                        <p>Deze les was voornamelijk jezelf ontdeken in de Smart Business. Door verschillende vraagstellingen te behandelen werd een profiel gecreëerd van jezelf. Hiervan heb ik geleerd dat ik bijna altijd van de innovatie gaat. Daarnaast heb ik ontdekt dat ik business in combinatie met techniek verder wil ontdekken.</p>
+                   </div>
+                </div>
+
+
+                <div class="cd-timeline-block cd-timeline-block-left">
+                    <div class="cd-timeline-img cd-movie">
+                        <img src="images/black-circle-icon.png" alt="Picture">
+                    </div>
+                    <div class="cd-timeline-content service-box-content">
+                        <h2>Week 2-Smart Products Klant</h2>
+                        <h4><strong>Intro</strong></h4>
+                        <p>Deze week staat in het teken van een gastcollege. De gastdocent is in dit geval Geert Rensen. Geert Rensen is onder ander COO(Chief Operating Officer) van be informed. Dit is een bedrijf dat zich specialiseerd in softwareontwikkeling. Gedurende de les wordt aan de hand van een praktijkcasus de lesstof behandeld. Hierbij wordt gesproken over innovatie binnen bedrijven. </p>
+                        <h4><strong>Uitvoering</strong></h4>
+                        <p>Ik kon (wegens autopech) Helaas niet de gehele les aanwezig zijn. Op mijn instapmoment waren we begonnen aan een praktijkcasus. Deze casus had een verband met de verzekeringsmaatschappij AXA. AXA heeft verschillende dochterbedirijven, waaronder een in Turkije. Deze verzekeraar biedt een breed scala aan verzekeringen bijv. levens-, schade-, inkomens- en pensioenverzekeringen. Het probleem in de Turkse markt is de concurrentie. Hierdoor worden WA verzekeringen (ik krijg hier een lichte déjà vu van) verliesgevend.</p>
+                        <p>Na beschrijven van het bovenstaande, is er gedurende de les wat verdieping over de stof. De verdieping ging over de relatie met de opdrachtgever. Traditioneel verloopt dit moeizaam vanwege alle handellingen verbonden aan het samenstellen van het juiste pakket.  </p>
+                        <h4><strong>Reflectie</strong></h4>                   </div>
+                        
+                    </div>
+
+                <div class="cd-timeline-block">
+                    <div class="cd-timeline-img cd-movie">
+                        <img src="images/black-circle-icon.png" alt="Picture">
+                    </div>
+                    <div class="cd-timeline-content service-box-content">
+                        <h2>Week 5-Smart Organisation</h2>
+                        <h4><strong>Intro</strong></h4>
+                        <h4><strong>Uitvoering</strong></h4>
+                        <h4><strong>Reflectie</strong></h4>
+                    </div>
+                </div>
+                <div class="cd-timeline-block cd-timeline-block-left">
+                    <div class="cd-timeline-img cd-movie">
+                        <img src="images/black-circle-icon.png" alt="Picture">
+                    </div>
+                    <div class="cd-timeline-content service-box-content">
+                        <h2>Week 5-Smart Working Keten</h2>
+                        <h4><strong>Intro</strong></h4>
+                        <h4><strong>Uitvoering</strong></h4>
+                        <h4><strong>Reflectie</strong></h4>                    </div>
+                </div>
+                <div class="cd-timeline-block">
+                    <div class="cd-timeline-img cd-movie">
+                        <img src="images/black-circle-icon.png" alt="Picture">
+                    </div>
+                    <div class="cd-timeline-content service-box-content">
+                        <h2>Week 6-Smart Proces & Working</h2>
+                        <h4><strong>Intro</strong></h4>
+                        <h4><strong>Uitvoering</strong></h4>
+                        <h4><strong>Reflectie</strong></h4>                   </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
