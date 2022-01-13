@@ -137,6 +137,7 @@ http://www.templatemo.com/preview/templatemo_427_timeline
                                 <div class="modal-content">
                                   <span class="close close01">&times;</span>
                                   <?php include "smartStart.php"; ?>
+                                  <div smartStart ="smartStart.html"></div>
                                 </div>
                               
                             </div>
@@ -156,7 +157,7 @@ http://www.templatemo.com/preview/templatemo_427_timeline
                                 
                                 <div class="modal-content">
                                   <span class="close close02">&times;</span>
-                                  <?php include "smartConnection.php"; ?>
+                                  <div smartConnection ="smartConnection.html"></div>
                                 </div>
                             
                               
@@ -177,8 +178,8 @@ http://www.templatemo.com/preview/templatemo_427_timeline
 
                                 <!-- Modal content -->
                                 <div class="modal-content">
-                                  <span class="close close03">&times;</span>
-                                  <?php include "smartTechnology.php"; ?>
+                                  <span class="close close03">&times;</span>                                 
+                                  <div smartTechnology ="smartTechnology.html"></div>
                                 </div>
                               
                             </div>
@@ -198,7 +199,7 @@ http://www.templatemo.com/preview/templatemo_427_timeline
                                 <!-- Modal content -->
                                 <div class="modal-content">
                                   <span class="close close04">&times;</span>
-                                  <?php include "smartBusiness.php"; ?>
+                                  <div smartBusiness ="smartBusiness.html"></div>
                                 </div>
                               
                             </div>
@@ -515,9 +516,41 @@ http://www.templatemo.com/preview/templatemo_427_timeline
             
             
         </script>
+        <script>
+function includeHTML(attributeName) {
+  var z, i, elmnt, file, xhttp;
+  /* Loop through a collection of all HTML elements: */
+  z = document.getElementsByTagName("*");
+  for (i = 0; i < z.length; i++) {
+    elmnt = z[i];
+    /*search for elements with a certain atrribute:*/
+    file = elmnt.getAttribute(attributeName);
+    if (file) {
+      /* Make an HTTP request using the attribute value as the file name: */
+      xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if (this.readyState == 4) {
+          if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+          if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+          /* Remove the attribute, and call this function once more: */
+          elmnt.removeAttribute(attributeName);
+          includeHTML();
+        }
+      }
+      xhttp.open("GET", file, true);
+      xhttp.send();
+      /* Exit the function: */
+      return;
+    }
+  }
+}
+includeHTML("smartStart");
+includeHTML("smartConnection");
+includeHTML("smartTechnology");
+includeHTML("smartBusiness");
+</script>
         <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 		<script type="text/javascript" src="js/vendor/bootstrap.min.js"></script>
 		<script type="text/javascript" src="js/custom.js"></script>
-
 	</body>
 </html>
